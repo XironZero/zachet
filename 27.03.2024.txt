@@ -1,1 +1,6 @@
-зачет по разработке пм
+1. diagrams.net
+2. AnyLogic
+3. Sap PowerDesigner
+4. Visio
+
+С помощью Visio можно сделать ил редактировать графы алгоритмов. 
